@@ -1,0 +1,26 @@
+export { default as Logo1 } from './Logo1.png';
+export { default as Nutrition } from './Nutrition.png';
+export { default as PsychometricAssessment } from './PsychometricAssessment.png';
+export { default as SoundTherapy } from './SoundTherapy.png';
+export { default as Therapy } from './Therapy.png';
+export { default as Yoga } from './Yoga.png';
+export { default as CommunityTherapy } from './CommunityTherapy.png';
+export { default as founder } from './founder.png';
+export { default as ClientFirst } from './ClientFirst.png';
+export { default as Excellence } from './Excellence.png';
+export { default as Inclusivity } from './Inclusivity.png';
+export { default as Integrity } from './Integrity.png';
+export { default as Kindness } from './Kindness.png';
+export { default as Learning } from './Learning.png';
+export { default as Respect } from './Respect.png';
+export { default as Ownership } from './Ownership.png';
+export { default as Transparency } from './Transparency.png';
+export { default as Velocity } from './Velocity.png';
+export { default as WorkWithUs } from './WorkWithUs.png';
+export { default as PartnerWithUs } from './PartnerWithUs.png';
+export { default as Support } from './Support.png';;
+export { default as Envelope } from './Envelope.png';
+export { default as People } from './People.png';
+export { default as GooglePlay } from './Googleplay.png';
+export { default as Download } from './Download.png';
+

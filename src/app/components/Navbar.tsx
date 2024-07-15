@@ -228,7 +228,7 @@ const Navbar: React.FC = () => {
                         onClick={(event) => handleClick(event, 'resources')}
                         endIcon={<ArrowDropDownIcon />}
                     >
-                        Resources
+                        Resourcessss
                     </Button>
                     <StyledMenu
                         anchorEl={anchorEl}
